@@ -1,6 +1,6 @@
 {
   "name": "test-nexus-repo",
-  "version": "0.0.31",
+  "version": "0.1.0",
   "description": "Test repo for publishing to nexus via jenkins",
   "license": "LicenseRef-LICENSE",
   "engines": {
